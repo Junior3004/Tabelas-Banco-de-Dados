@@ -1,5 +1,3 @@
-# Tabelas-Banco-de-Dados
-
 ##################    BANCO DE DADOS GENERALISTA - (GENERALIST DATABASE)  ##################
 
 # LISTA DE TABELAS DO BANCO DE DADOS - (LIST OF DATABASE TABLES )
