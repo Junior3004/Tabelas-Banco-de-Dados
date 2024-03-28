@@ -1,9 +1,9 @@
 # LISTA DE TABELAS SQL GENERALISTAS
 
-Com o intuito de agilisar a criacao de novas tabelas SQL,
+Com o intuito de agilizar a criação de novas tabelas SQL,
 criei essa lista de tabelas comumente usadas em projetos diversos.
 
-No documento contem o nome da tabela e seu respectivo codigo SQL.
+No documento contem o nome da tabela e seu respectivo código SQL.
 
 Exemplo:
 
